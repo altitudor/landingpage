@@ -103,3 +103,13 @@ button {
 button:hover {
     background-color: #686de0;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #30336b;
+}
+
+footer p {
+    font-size: 1rem;
+}
